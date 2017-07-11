@@ -41,7 +41,7 @@ p {
   padding: 30px;
   background-color: white;
   border-radius: 0.3px;
-  box-shadow: 2px 2px 3px #F5F5F5;
+  box-shadow: 2px 2px 3px darkgrey;
   text-align: center;
 }
 
@@ -54,9 +54,6 @@ p {
   padding: 0px 20px;
 }
 
-.mini-card {
-  margin: 15px 0px;
-}
 
 .serif {
   font-family: 'Slabo 27px', serif;
