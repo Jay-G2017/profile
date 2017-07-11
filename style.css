@@ -23,7 +23,7 @@ p {
   color: #5F90F5;
 }
 
-body {
+.box {
   background-color: #F5ECBB;
 }
 
@@ -33,7 +33,6 @@ body {
 }
 
 .container {
-  width: 600px;
   margin: 16 auto;
 }
 
@@ -66,5 +65,21 @@ body {
 
 h1, h2, h3, p {
   font-family: 'Noto+Sans', sans-serif;
+}
+
+.knowledge {
+  text-align: left;
+}
+
+.background {
+  text-align: left;
+}
+
+ul {
+    list-style-image: url(images/check-mark-grey-20.png);
+}
+
+ul .uncheck {
+    list-style-image: url(images/bookmark-grey-22.png);
 }
 
