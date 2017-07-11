@@ -84,10 +84,6 @@ ul .check {
     list-style-image: url(images/check-mark-grey-20.png);
 }
 
-ul {
-  list-style-type: default;
-}
-
 li {
   font-size: 16px;
 }
