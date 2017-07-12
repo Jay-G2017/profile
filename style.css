@@ -5,7 +5,7 @@ h1, h2 {
 
 p {
   color: rgb(70,70,70);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 #logo {
@@ -76,20 +76,14 @@ h1, h2, h3, p {
   text-align: left;
 }
 
-ul.check {
-    list-style-image: url(images/check-mark-grey-20.png);
+ul {
+    margin-left: -30px;
 }
 
-ul .uncheck {
-    list-style-image: url(images/bookmark-grey-22.png);
-}
-
-ul .check {
-    list-style-image: url(images/check-mark-grey-20.png);
-}
 
 li {
-  font-size: 18px;
+  font-size: 15px;
+  margin-top: 6px;
 }
 
 a {
