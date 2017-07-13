@@ -101,7 +101,7 @@ a {
 
 .fa {
   color: white;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .skill-sheet {
@@ -111,7 +111,7 @@ a {
 }
 
 .skill {
-  background-color: #9E9E9E;
+  background-color: #bab6b6;
   width: 190px;
   border-radius: 4px;
   padding: 14px;
